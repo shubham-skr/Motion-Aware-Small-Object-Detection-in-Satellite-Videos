@@ -113,7 +113,7 @@ visualize_sample(model, head, val_loader, DEVICE)
 All major hyperparameters are defined in the `__main__` block:
 
 ```python
-NUM_EPOCHS    = 20
+NUM_EPOCHS    = 75
 BATCH_SIZE    = 4 * max(NUM_GPUS, 1)
 LEARNING_RATE = 1.25e-4
 CHANNELS      = 64
