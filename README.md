@@ -1,4 +1,4 @@
-# Motion-Aware Optical flow guided temporal attention for small object detection in Statellite Videos.
+# Motion-Aware Optical Flow Guided Temporal Attention for Small Object Detection in Satellite Videos.
 
 A PyTorch implementation of a temporal small object detector that combines ConvLSTM-based motion modeling, temporal self-attention, and optical flow-guided feature warping with a CenterNet detection head — all on top of a DLA-34 backbone.
 
@@ -16,7 +16,7 @@ A PyTorch implementation of a temporal small object detector that combines ConvL
 
 ## Overview
 
-We have given 5 files. The file names are self explanatory.
+We have given 5 files. The file names are self-explanatory.
 
 ## Notebooks Included
 
